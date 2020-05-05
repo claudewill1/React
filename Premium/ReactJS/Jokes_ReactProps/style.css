@@ -1,0 +1,7 @@
+body{
+    margin: 0;
+}
+.joke-card {
+    flex-basis: 250px;
+    margin: 20px;
+}
